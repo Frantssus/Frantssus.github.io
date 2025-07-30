@@ -1,0 +1,19 @@
+body {
+  background: #c7ea46;
+  padding: 0 24px;
+  color: #FFFFFF;
+  margin: 0;
+  height: 100vh;
+  text-align: center;
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  border: 1px solid black;
+}
+
+img {
+  width: 25%;
+  height: 25%;
+}
