@@ -12,11 +12,15 @@ div {
   height: 60px;
   border: 1px solid black;
 }
+div.a {
+  text-align: left;
+}
 
 img {
   width: 25%;
   height: 25%;
 
 }
+
 
 
