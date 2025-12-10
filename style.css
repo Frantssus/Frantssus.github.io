@@ -10,7 +10,7 @@ div {
   justify-content: flex-start;
   align-items: flex-start;
   height: 60px;
-  border: 1px solid black;
+  border: 0px solid black;
 }
 div.a {
   text-align: center;
@@ -24,6 +24,7 @@ img {
   height: 25%;
 
 }
+
 
 
 
